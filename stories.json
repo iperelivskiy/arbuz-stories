@@ -3,24 +3,24 @@
         {
             "preview": {
                 "content_type": "image/png",
-                "url": "https://raw.githubusercontent.com/iperelivskiy/arbuz-stories/master/stories/1/preview.png?token=AADC7SLHTISYTRHX34IIBQ3BFIN7I"
+                "url": "https://raw.githubusercontent.com/iperelivskiy/arbuz-stories/master/stories/1/preview.png"
             },
             "slides": [
                 {
                     "content_type": "image/jpeg",
-                    "url": "https://raw.githubusercontent.com/iperelivskiy/arbuz-stories/master/stories/1/story-1.jpg?token=AADC7SONQ3KE5XABKYKEW2LBFIO2G"
+                    "url": "https://raw.githubusercontent.com/iperelivskiy/arbuz-stories/master/stories/1/story-1.jpg"
                 },
                 {
                     "content_type": "image/jpeg",
-                    "url": "https://raw.githubusercontent.com/iperelivskiy/arbuz-stories/master/stories/1/story-2.jpg?token=AADC7SP3UVZYYLDNMSYTKETBFIO4U"
+                    "url": "https://raw.githubusercontent.com/iperelivskiy/arbuz-stories/master/stories/1/story-2.jpg"
                 },
                 {
                     "content_type": "image/jpeg",
-                    "url": "https://raw.githubusercontent.com/iperelivskiy/arbuz-stories/master/stories/1/story-3.jpg?token=AADC7SPIUIUHDR4QK36F3JDBFIO6I"
+                    "url": "https://raw.githubusercontent.com/iperelivskiy/arbuz-stories/master/stories/1/story-3.jpg"
                 },
                 {
                     "content_type": "image/jpeg",
-                    "url": "https://raw.githubusercontent.com/iperelivskiy/arbuz-stories/master/stories/1/story-4.jpg?token=AADC7SL5TOCLPMGTRDBIDH3BFIO7U"
+                    "url": "https://raw.githubusercontent.com/iperelivskiy/arbuz-stories/master/stories/1/story-4.jpg"
                 }
             ],
             "action": {
@@ -31,20 +31,20 @@
         {
             "preview": {
                 "content_type": "image/png",
-                "url": "https://raw.githubusercontent.com/iperelivskiy/arbuz-stories/master/stories/2/preview.png?token=AADC7SLOLNQ3RSWIKNXIPSDBFIPYY"
+                "url": "https://raw.githubusercontent.com/iperelivskiy/arbuz-stories/master/stories/2/preview.png"
             },
             "slides": [
                 {
                     "content_type": "image/jpeg",
-                    "url": "https://raw.githubusercontent.com/iperelivskiy/arbuz-stories/master/stories/2/story-1.jpg?token=AADC7SPDOILHBPKSB6IHRLTBFIPZ6"
+                    "url": "https://raw.githubusercontent.com/iperelivskiy/arbuz-stories/master/stories/2/story-1.jpg"
                 },
                 {
                     "content_type": "image/jpeg",
-                    "url": "https://raw.githubusercontent.com/iperelivskiy/arbuz-stories/master/stories/2/story-2.jpg?token=AADC7SMHN4YP66JJCSJXZBDBFIP24"
+                    "url": "https://raw.githubusercontent.com/iperelivskiy/arbuz-stories/master/stories/2/story-2.jpg"
                 },
                 {
                     "content_type": "image/jpeg",
-                    "url": "https://raw.githubusercontent.com/iperelivskiy/arbuz-stories/master/stories/2/story-3.jpg?token=AADC7SOYIVAVN76TE77JEJTBFIP36"
+                    "url": "https://raw.githubusercontent.com/iperelivskiy/arbuz-stories/master/stories/2/story-3.jpg"
                 }
             ],
             "action": {
@@ -55,20 +55,20 @@
         {
             "preview": {
                 "content_type": "image/png",
-                "url": "https://raw.githubusercontent.com/iperelivskiy/arbuz-stories/master/stories/3/preview.png?token=AADC7SOZVPGPIP7JE6WFTBTBFIQA4"
+                "url": "https://raw.githubusercontent.com/iperelivskiy/arbuz-stories/master/stories/3/preview.png"
             },
             "slides": [
                 {
                     "content_type": "image/jpeg",
-                    "url": "https://raw.githubusercontent.com/iperelivskiy/arbuz-stories/master/stories/3/story-1.jpg?token=AADC7SM4DLKKGK2H4PYIAKTBFIQB6"
+                    "url": "https://raw.githubusercontent.com/iperelivskiy/arbuz-stories/master/stories/3/story-1.jpg"
                 },
                 {
                     "content_type": "image/jpeg",
-                    "url": "https://raw.githubusercontent.com/iperelivskiy/arbuz-stories/master/stories/3/story-2.jpg?token=AADC7SMPVUI66UQ37UZ36U3BFIQC4"
+                    "url": "https://raw.githubusercontent.com/iperelivskiy/arbuz-stories/master/stories/3/story-2.jpg"
                 },
                 {
                     "content_type": "image/jpeg",
-                    "url": "https://raw.githubusercontent.com/iperelivskiy/arbuz-stories/master/stories/3/story-3.jpg?token=AADC7SLNZ4DECXYXHAQRPTTBFIQDW"
+                    "url": "https://raw.githubusercontent.com/iperelivskiy/arbuz-stories/master/stories/3/story-3.jpg"
                 }
             ],
             "action": null
